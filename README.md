@@ -2,6 +2,8 @@
 
 A lightweight Python application to control Philips Hue lights using customizable keyboard hotkeys and a simple GUI. Supports brightness adjustments, light toggling, and background operation via system tray.
 
+![Preview](preview.png)
+
 ---
 
 ## Features
@@ -18,7 +20,7 @@ A lightweight Python application to control Philips Hue lights using customizabl
 
 ---
 
-## Installation & Setup
+### Installation & Setup
 - Download the philips.py file and all dependencies
 - Run the program, a Tkinter GUI window should pop up
 - Navigate to the "Setup" tab, and click on "Get Bridge IP"
