@@ -2,7 +2,7 @@
 
 A lightweight Python application to control Philips Hue lights using customizable keyboard hotkeys and a simple GUI. Supports brightness adjustments, light toggling, and background operation via system tray.
 
-![Preview](preview.png)
+![Preview](app_preview.png)
 
 ---
 
